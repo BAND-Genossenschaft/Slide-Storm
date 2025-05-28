@@ -404,6 +404,28 @@ where to find the applicable terms.
 form of a separately written license, or stated as exceptions;
 the above requirements apply either way.
 
+  The following additional restrictions apply to this software:
+
+  1. Ethical Use Restriction: This software may not be used for any purposes 
+     that cause or are intended to cause harm to individuals or groups, 
+     including but not limited to:
+     
+     a) Military applications, warfare, or weapons development
+     b) Development or operation of weapons systems or military equipment
+     c) Surveillance systems designed for oppression or human rights violations
+     d) Systems designed to cause physical, mental, or emotional harm
+     e) Torture devices or interrogation systems
+     f) Autonomous systems designed to harm humans
+     g) Any application whose primary purpose is to injure, kill, or 
+        otherwise harm human beings
+
+  2. If you use this software in compliance with these terms and find it 
+     valuable, you are encouraged (but not required) to buy the author a 
+     beer, coffee, or other beverage of their choice if you meet them.
+
+  If you cannot comply with both the GPL v3 and these additional restrictions, 
+  you may not use, modify, or distribute this software.
+
   8. Termination.
 
   You may not propagate or modify a covered work except as expressly
